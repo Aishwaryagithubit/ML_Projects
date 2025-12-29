@@ -1,2 +1,3 @@
 # ML_Projects
-A Python based Machine Learning repo featuring data preprocessing, model building, and evaluation. Includes classic ML algorithms, neural networks, visualization, and hands on examples perfect for learning, experimentation, and building practical ML projects
+A Python based Machine Learning repo featuring data preprocessing, model building, and evaluation. Includes classic ML algorithms, neural networks, visualization,and hands on examples perfect for learning, experimentation, and building practical ML projects
+A Journey......
